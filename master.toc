@@ -1,0 +1,16 @@
+\contentsline {section}{Abstract}{1}{section*.1}
+\contentsline {section}{Contents}{1}{section*.2}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Language}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Syntax}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Environments and stores}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Dependencies}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Collection semantics}{8}{subsection.2.4}
+\contentsline {section}{\numberline {3}Type system for data-flow analysis}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Types}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Basis and type environment}{12}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}The type system}{14}{subsection.3.3}
+\contentsline {section}{\numberline {4}Soundness}{18}{section.4}
+\contentsline {subsection}{\numberline {4.1}Type rules for values}{18}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Agreement}{19}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Properties}{22}{subsection.4.3}

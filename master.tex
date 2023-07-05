@@ -4,6 +4,8 @@
 
 \input{frontmatter/acm.tex}
 
+\providecommand{\mathscr}[1]{\mathcal{#1}}
+
 \begin{document}
 	%\subfile{frontmatter/resume.tex}
    \input{frontmatter/titlepage.tex}
@@ -12,7 +14,7 @@
 	\subfile{sections/intro.tex}
 	\subfile{sections/lang.tex}
 	\subfile{sections/typesys.tex}
-	\subfile{sections/Proof/index.tex}
+        \subfile{sections/Proof/index.tex}
 	\subfile{sections/discussion.tex}
 
 	\balance
@@ -25,3 +27,8 @@
 	\subfile{sections/appendix/proof.tex}
 
 \end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
