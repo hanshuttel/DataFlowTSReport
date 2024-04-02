@@ -1,1 +1,8 @@
 build/*
+*.aux
+*.log
+*.out
+*.gz
+*.pdf
+pepm2024.bbl
+pepm2024.blg
